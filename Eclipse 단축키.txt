@@ -1,0 +1,3 @@
+Eclipse 단축키
+alt shift r : 특정 변수 전체 선택
+control shift f: 줄 맞춤
